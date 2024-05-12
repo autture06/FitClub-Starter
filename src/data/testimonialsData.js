@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: "After trying many gyms, Fitclub provides the perfect equipment, and supportive community for achieving my fitness goals!",
     name: 'JOHN KEVIN',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:"After exploring options, I found a gym that meets my fitness needs and supports my journey to a healthier lifestyle!",
     name: 'FRANKLIN',
     status: "CUSTOMER"
   }
